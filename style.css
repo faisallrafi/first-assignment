@@ -1,0 +1,41 @@
+body{
+    font-size: 30px;
+}
+.company-name{
+    color: hsl(2, 92%, 51%);
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 17px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 30%;
+    padding-left: 7%;
+}
+.half-width img{
+    padding-right: 35%;
+}
+.top{
+    padding-top:7%;
+}
+.about-me-color{
+    color: yellow;
+}
+.second-half-width{
+    width: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.third-half-width{
+    padding-left: 50%;
+    padding-top: 30%;
+}
+.background{
+background-image: url(food-network-main/images/shapes/7.png) ;
+background-repeat: no-repeat;
+}
